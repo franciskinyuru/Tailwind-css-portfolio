@@ -3,6 +3,7 @@ module.exports = {
   content: [
     './public/index.html',
     './src/**/*.{html,js}',
+    './index.html',
   ],
   darkMode: false, // or 'media' or 'class'
   theme: {
